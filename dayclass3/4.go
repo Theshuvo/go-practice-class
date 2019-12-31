@@ -38,7 +38,7 @@ func main() {
 		"F": "Fluorine",
 		"Ne":"Neon",
 	}
-	fmt.Println(z) //map[B:Boron Be:Beryllium C:Carbon F:Fluorine H:Hydrogen He:Helium Li:Lithium N:Nitrogen Ne:Neon O:Oxygen]
+	fmt.Println(z) // map[B:Boron Be:Beryllium C:Carbon F:Fluorine H:Hydrogen He:Helium Li:Lithium N:Nitrogen Ne:Neon O:Oxygen]
 	family := map[string]map[string]string{
 		"me": map[string]string{
 			"frist_name":"Jhon",
